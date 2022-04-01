@@ -44,7 +44,7 @@ def unzip_files():
 
             # extracting all the files
             print('Extracting all the files now...')
-            zip.extractall(path='../../')
+            zip.extractall(path='../../data/')
             print('Done!')
 
 
